@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Branko Nenadić</h1>
-<h3 align="center">A passionate PHP Web Developer from Bosnia & Hercegovina</h3>
+<h3 align="center">A PHP Web Developer from Bosnia & Hercegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brankonenadic&label=Profile%20views&color=0e75b6&style=flat" alt="brankonenadic" /> </p>
 
